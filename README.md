@@ -23,7 +23,7 @@
 
 ## Screenshots
 SignUp page -
-![Cimein - SignUp page](https://github.com/user-attachments/assets/076940be-1faf-4a6a-8d55-0a3541ad625b)
+![Chimein - SignUp page](https://github.com/user-attachments/assets/076940be-1faf-4a6a-8d55-0a3541ad625b)
 
 Login page -
 ![ChimeIn - Login page](https://github.com/user-attachments/assets/3578c9fb-58a9-45c0-a58e-e4787b55920e)
