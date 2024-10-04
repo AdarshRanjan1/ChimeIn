@@ -20,6 +20,8 @@
 
 **Database:** MongoDB
 
+## Video
+https://github.com/user-attachments/assets/6484ad86-10f6-4ccc-a600-49c3f7d257a2
 
 ## Screenshots
 SignUp page -
