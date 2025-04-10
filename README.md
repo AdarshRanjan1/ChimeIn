@@ -10,7 +10,8 @@
 - Secured user sessions with JWT authentication, enhancing data protection and security within the application.Onboarded 10+ users in the first month.
 - Designed a responsive UI using Tailwind CSS and Toast React and deployed on Render, optimized backend forconcurrency and zero latency
 
-
+## Deployed Link
+https://chimein.onrender.com
 
 ## Tech Stack
 
